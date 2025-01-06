@@ -20,8 +20,6 @@ La página presenta un diseño atractivo con un fondo animado, botones interacti
 - **Música de Fondo**: Reproducción de música con opciones para silenciar y reactivar el sonido.
 - **Responsividad**: Diseño adaptativo para una experiencia óptima en dispositivos móviles y de escritorio.
 
----
-
 ## Vista Previa
 
 Puedes ver la página en funcionamiento [aquí](https://propuesta-romantica.vercel.app/).
