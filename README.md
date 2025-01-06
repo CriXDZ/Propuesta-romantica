@@ -57,8 +57,6 @@ Este proyecto está protegido por una licencia personalizada. Cualquier uso, mod
 
 Este proyecto está dedicado a mi novia, quien fue mi mayor inspiración. Busqué muchas páginas en internet para encontrar la manera perfecta de expresar mis sentimientos, pero al final decidí crear algo único y personal. Así nació este pequeño proyecto, hecho con mucho amor para mi pareja a distancia. 💖
 
----
-
 ## Créditos
 
 <p align="center">
