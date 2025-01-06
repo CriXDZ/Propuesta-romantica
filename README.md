@@ -51,11 +51,11 @@ Puedes ver la página en funcionamiento [aquí](https://propuesta-romantica.verc
 
 Este proyecto está protegido por una licencia personalizada. Cualquier uso, modificación o distribución debe contar con la autorización previa del autor, [CriXDZ](https://github.com/CriXDZ). Consulta los detalles completos en el archivo [LICENSE](./LICENSE).
 
----
-
 ## Inspiración
 
 Este proyecto está dedicado a mi novia, quien fue mi mayor inspiración. Busqué muchas páginas en internet para encontrar la manera perfecta de expresar mis sentimientos, pero al final decidí crear algo único y personal. Así nació este pequeño proyecto, hecho con mucho amor para mi pareja a distancia. 💖
+
+---
 
 ## Créditos
 
