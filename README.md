@@ -30,11 +30,11 @@ Puedes ver la página en funcionamiento [aquí](https://propuesta-romantica.verc
 
 1. Clona este repositorio:
    ```sh
-   git clone https://github.com/CriXDZ/propuesta-de-noviazgo.git
+   git clone https://github.com/CriXDZ/Propuesta-romantica.git
    ```
 2. Navega a la carpeta del proyecto:
    ```sh
-   cd propuesta-de-noviazgo
+   cd propuesta-romantica
    ```
 3. Instala las dependencias:
    ```sh
