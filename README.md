@@ -1,42 +1,65 @@
 # Propuesta de Noviazgo :sparkling_heart:
 
-Esta es una página web especial diseñada para hacer una propuesta de noviazgo. Utiliza HTML, CSS y JavaScript para crear una experiencia romántica y única para la persona que te gusta.
+Esta es una página web especial diseñada para hacer una propuesta de noviazgo. Utiliza React, HTML y CSS para crear una experiencia romántica y única para la persona que te gusta.
+
+---
 
 ## Descripción
 
-La página presenta un diseño atractivo con un fondo animado, botones interactivos y una galería de fotos dispuesta en cascada que se adapta a diferentes tamaños de pantalla. Al hacer clic en los botones, se muestran mensajes personalizados. Además, cuenta con música de fondo para ambientar el momento.
+La página presenta un diseño atractivo con un fondo animado, botones interactivos y una galería de fotos dispuesta en cascada que se adapta a diferentes tamaños de pantalla. Al interactuar con los botones, se muestran mensajes personalizados. Además, cuenta con música de fondo para ambientar el momento especial.
+
+---
 
 ## Tecnologías Utilizadas :hammer:
 
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) **HTML**: Estructura básica de la página.
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) **React**: Biblioteca principal para crear componentes reutilizables e interactivos.
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) **HTML**: Estructura básica de la aplicación.
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) **CSS**: Estilos y animaciones para hacer la página visualmente atractiva.
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript**: Lógica para manejar la interacción del usuario y los efectos visuales.
+
+---
 
 ## Funcionalidades
 
-- **Animaciones de fondo**: Fondos que cambian de color de forma suave.
+- **Animaciones de fondo**: Fondos con transiciones suaves que crean una atmósfera romántica.
 - **Interactividad**: Botones que muestran mensajes personalizados al hacer clic en ellos.
-- **Galería de Fotos**: Galería interactiva donde las fotos se disponen en cascada y se ajustan al tamaño de la pantalla.
-- **Música de Fondo**: Reproducción automática de música de fondo con control de sonido (mute/unmute).
-- **Responsividad**: Diseño adaptativo para una visualización óptima en dispositivos móviles y de escritorio.
+- **Galería de Fotos**: Una galería interactiva en cascada que se ajusta dinámicamente al tamaño de la pantalla.
+- **Música de Fondo**: Reproducción de música con opciones para silenciar y reactivar el sonido.
+- **Responsividad**: Diseño adaptativo para una experiencia óptima en dispositivos móviles y de escritorio.
+
+---
 
 ## Vista Previa
 
-Puedes ver la página en funcionamiento [aquí](https://crixdz.github.io/propuesta-de-noviazgo/).
+Puedes ver la página en funcionamiento [aquí](https://propuesta-romantica.vercel.app/).
 
-## Uso
+---
+
+## Instrucciones de Uso
 
 1. Clona este repositorio:
    ```sh
    git clone https://github.com/CriXDZ/propuesta-de-noviazgo.git
    ```
 2. Navega a la carpeta del proyecto:
+   ```sh
+   cd propuesta-de-noviazgo
+   ```
+3. Instala las dependencias:
+   ```sh
+   npm install
+   ```
+4. Inicia el servidor de desarrollo:
+   ```sh
+   npm start
+   ```
 
-```sh
-cd propuesta-de-noviazgo
-```
+---
 
-3. Abre `index.html` en tu navegador para ver la página.
+## Licencia
+
+Este proyecto está protegido por una licencia personalizada. Cualquier uso, modificación o distribución debe contar con la autorización previa del autor, [CriXDZ](https://github.com/CriXDZ). Consulta los detalles completos en el archivo [LICENSE](./LICENSE).
+
+---
 
 ## Créditos
 
@@ -47,3 +70,9 @@ cd propuesta-de-noviazgo
     <strong>CriXDZ</strong>
   </a>
 </p>
+
+---
+
+## Inspiración
+
+Este proyecto está dedicado a mi novia, quien fue mi mayor inspiración. Busqué muchas páginas en internet para encontrar la manera perfecta de expresar mis sentimientos, pero al final decidí crear algo único y personal. Así nació este pequeño proyecto, hecho con mucho amor para mi pareja a distancia. 💖
